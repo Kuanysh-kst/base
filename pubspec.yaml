@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^5.0.0
   flutter_animated_button: ^2.0.0
+  editable: ^2.0.0
 
 dev_dependencies:
   flutter_test:
